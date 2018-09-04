@@ -1,0 +1,24 @@
+.home
+{
+	background-color:black;
+	height:600px;
+}
+
+.navbar-brand img
+{
+	width:150px;
+}
+
+.bg-light
+{
+	background-color:red !important;
+}
+.nav-link
+{
+	color:white !important;
+}
+.home h1
+{
+	color:white;
+	padding:150px;
+}
